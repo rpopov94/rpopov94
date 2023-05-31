@@ -31,6 +31,19 @@ I'm python Developer
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
- 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+ <p align="center">
+   <a href="https://github.com/rpopov94">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rpopov94&theme=transparent" />
+   </a>
+   <a href="https://github.com/rpopov94">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpopov94&hide_border=true&card_width=338&theme=transparent" />
+   </a>
+   <a href="https://github.com/rpopov94">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rpopov94&theme=transparent" />
+   </a>
+   <a href="https://github.com/rpopov94">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?    username=rpopov94&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+   </a>
+ </p>
+</details>
