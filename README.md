@@ -42,8 +42,5 @@ I'm python Developer
    <a href="https://github.com/rpopov94">
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rpopov94&theme=transparent" />
    </a>
-   <a href="https://github.com/rpopov94">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?    username=rpopov94&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-   </a>
  </p>
 </details>
